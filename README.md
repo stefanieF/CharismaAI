@@ -62,15 +62,15 @@ The corresponding paper for this work is found under: https://doi.org/10.1016/j.
 
 
 ### Literature<br />
- Antonakis, J., Bastardoz, N., Jacquart, P., & Shamir, B. (2016). Charisma: An ill-defined and ill-measured gift. Annual Review of Organizational Psychology and Organizational Behavior, 3, 293-319. <br />
-Antonakis, J., Fenley, M., & Liechti, S. (2011). Can charisma be taught? Tests of two interventions. Academy of Management Learning & Education, 10(3), 374-396.<br />
-Bligh, M. C., Kohles, J. C., & Meindl, J. R. (2004). Charisma under crisis: Presidential leadership, rhetoric, and media responses before and after the September 11th terrorist attacks. The Leadership Quarterly, 15(2), 211-239.<br />
-Bastardoz, N., Jacquart, P. & Antonakis, J. (2022). Effect of crises on charisma signaling: A regression discontinuity design. The Leadership Quarterly, 101590. <br />
-Eagly, A. H., & Karau, S. J. (2002). Role congruity theory of prejudice toward female leaders. Psychological review, 109(3), 573.<br />
-Jensen, U., Rohner, D., Bornet, O., Carron, D., Garner, P., Loupi, D., & Antonakis, J. (2021, February 10). Combating COVID-19 with Charisma: Evidence on Governor Speeches and Physical Distancing in the United States. https://doi.org/10.31234/osf.io/ypqmk<br />
-Shamir, B., Arthur, M. B., & House, R. J. (1994). The rhetoric of charismatic leadership: A theoretical extension, a case study, and implications for research. The Leadership Quarterly, 5(1), 25-42.<br />
-Shamir, B., House, R. J., & Arthur, M. B. (1993). The motivational effects of charismatic leadership: A self-concept based theory. Organization Science, 4(4), 577-594.<br />
-Shamir, B., & Howell, J. M. (1999). Organizational and contextual influences on the emergence and effectiveness of charismatic leadership. The Leadership Quarterly, 10(2), 257-283.<br />
-Steen, G.J., Dorst A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., Pasma, T. (2010). A method for linguistic metaphor identification. From MIP to MIPVU. Amsterdam: John Benjamins. <br />
-T. B. Brown et al., “Language Models are Few-Shot Learners.” arXiv, 2020. doi: 10.48550/ARXIV.2005.14165 <br />
-Graham, J., & Haidt, J. (2012). The moral foundations dictionary. Available at: http://moralfoundations.org <br />
+- Antonakis, J., Bastardoz, N., Jacquart, P., & Shamir, B. (2016). Charisma: An ill-defined and ill-measured gift. Annual Review of Organizational Psychology and Organizational Behavior, 3, 293-319. <br />
+- Antonakis, J., Fenley, M., & Liechti, S. (2011). Can charisma be taught? Tests of two interventions. Academy of Management Learning & Education, 10(3), 374-396.<br />
+- Bligh, M. C., Kohles, J. C., & Meindl, J. R. (2004). Charisma under crisis: Presidential leadership, rhetoric, and media responses before and after the September 11th terrorist attacks. The Leadership Quarterly, 15(2), 211-239.<br />
+- Bastardoz, N., Jacquart, P. & Antonakis, J. (2022). Effect of crises on charisma signaling: A regression discontinuity design. The Leadership Quarterly, 101590. <br />
+- Eagly, A. H., & Karau, S. J. (2002). Role congruity theory of prejudice toward female leaders. Psychological review, 109(3), 573.<br />
+- Jensen, U., Rohner, D., Bornet, O., Carron, D., Garner, P., Loupi, D., & Antonakis, J. (2021, February 10). Combating COVID-19 with Charisma: Evidence on Governor Speeches and Physical Distancing in the United States. https://doi.org/10.31234/osf.io/ypqmk<br />
+- Shamir, B., Arthur, M. B., & House, R. J. (1994). The rhetoric of charismatic leadership: A theoretical extension, a case study, and implications for research. The Leadership Quarterly, 5(1), 25-42.<br />
+- Shamir, B., House, R. J., & Arthur, M. B. (1993). The motivational effects of charismatic leadership: A self-concept based theory. Organization Science, 4(4), 577-594.<br />
+- Shamir, B., & Howell, J. M. (1999). Organizational and contextual influences on the emergence and effectiveness of charismatic leadership. The Leadership Quarterly, 10(2), 257-283.<br />
+- Steen, G.J., Dorst A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., Pasma, T. (2010). A method for linguistic metaphor identification. From MIP to MIPVU. Amsterdam: John Benjamins. <br />
+- T. B. Brown et al., “Language Models are Few-Shot Learners.” arXiv, 2020. doi: 10.48550/ARXIV.2005.14165 <br />
+- Graham, J., & Haidt, J. (2012). The moral foundations dictionary. Available at: http://moralfoundations.org <br />
