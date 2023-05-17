@@ -27,7 +27,9 @@ We also show whether women use the same amount and types of CLTs as men and exam
 Crises exist in all areas - both global crises (e.g., climate change) and organizational crises (e.g., corporate restructuring) - and will challenge future leaders. Analyzing the rhetoric of female and male leaders during crises can help to improve future crisis communication in all fields.
 ### UN SDGs
 Gender equality and Decent work and economic growth
-## Data and training methods:
+
+
+## Data and training methods
 
 - The models are trained on annotated governor speeches. Details for the annotations can be found under . 
 - We use the VUA metaphor corpus for training the model responsible for tagging the use of metaphors by Steen et al. 2010
