@@ -26,9 +26,9 @@ Metaphor/Simile, rhetorical question, stories/anecdotes, contrast, lists, repeti
 | F1-Score       | -               |     95,4 |             90,5 |                     |        |                     |          |                   |      |            |                             |                           |
 | without corpus |                 |          |                  |                     |        |                     |          |                   |      |            |                             |                           |
 | Model          | Charisma Tactic | Metaphor | Moral conviction | Rhetorical question | Simile | confidence in goals | Contrast | Stories/Anecdotes | List | Repetition | Sentiment of the collective | Setting high expectations |
-| Accuracy       |            73,0 |          |                  |                99,5 |   99,6 |                94,7 |     89,0 |              97,0 | 92,9 |       80,0 |                        92,7 |                      89,0 |
-| Precision      |            78,4 |          |                  |                84,2 |   50,0 |                64,5 |     51,4 |              65,1 | 80,6 |       65,8 |                        98,7 |                      56,8 |
-| F1-Score       |            78,2 |          |                  |                88,9 |   50,0 |                48,8 |     44,9 |              54,4 | 78,4 |       62,7 |                        38,3 |                      53,5 |
+| Accuracy       |            73,0 |     95,6 |             73,9 |                99,5 |   99,6 |                94,7 |     89,0 |              97,0 | 92,9 |       80,0 |                        92,7 |                      89,0 |
+| Precision      |            78,4 |     37,5 |             79,1 |                84,2 |   50,0 |                64,5 |     51,4 |              65,1 | 80,6 |       65,8 |                        98,7 |                      56,8 |
+| F1-Score       |            78,2 |     25,5 |             78,9 |                88,9 |   50,0 |                48,8 |     44,9 |              54,4 | 78,4 |       62,7 |                        38,3 |                      53,5 |
 <br />
 <br />
 
