@@ -1,8 +1,8 @@
 # CharismaBERT
-This repository holds the code for the conference talk on charismatic behaviour by Krügl et al. [1]
-The provided notebooks fine tune multiple BERT models that predicts charismatic leadership tractics in text.
-The charismatic tactics are:
-
+This repository holds the code for the conference talk on charismatic behaviour by Krügl et al. [1] <br />
+The provided notebooks fine tune multiple BERT models that predicts charismatic leadership tractics in text.<br />
+The charismatic tactics are:<br />
+Metaphor/Simile, rhetorical question, stories/anecdotes, contrast, lists, repetition, moral conviction, sentiment of the collective, setting high expectations and confidence in goals 
 ### Data and training methods:
 
 - The models are trained on annotated governor speeches. Details for the annotations can be found under [1]. 
@@ -29,13 +29,13 @@ The charismatic tactics are:
 | Accuracy       |            73,0 |          |                  |                99,5 |   99,6 |                94,7 |     89,0 |              97,0 | 92,9 |       80,0 |                        92,7 |                      89,0 |
 | Precision      |            78,4 |          |                  |                84,2 |   50,0 |                64,5 |     51,4 |              65,1 | 80,6 |       65,8 |                        98,7 |                      56,8 |
 | F1-Score       |            78,2 |          |                  |                88,9 |   50,0 |                48,8 |     44,9 |              54,4 | 78,4 |       62,7 |                        38,3 |                      53,5 |
+<br />
+<br />
 
-
-
-This work is based on the DeepEthics Framework by Banks et al. The code can be found under: https://github.com/atefehmah/DeepEthics
-The corresponding paper for this work is found under: https://doi.org/10.1016/j.leaqua.2022.101658
-
-[1] EAWOP citation
-[2] Steen, G.J., Dorst A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., Pasma, T. (2010). A method for linguistic metaphor identification. From MIP to MIPVU. Amsterdam: John Benjamins.
-[3] T. B. Brown et al., “Language Models are Few-Shot Learners.” arXiv, 2020. doi: 10.48550/ARXIV.2005.14165
-[4] Graham, J., & Haidt, J. (2012). The moral foundations dictionary. Available at: http://moralfoundations.org
+This work is based on the DeepEthics Framework by Banks et al. The code can be found under: https://github.com/atefehmah/DeepEthics <br />
+The corresponding paper for this work is found under: https://doi.org/10.1016/j.leaqua.2022.101658 <br />
+<br />
+[1] EAWOP citation  <br />
+[2] Steen, G.J., Dorst A.G., Herrmann, J.B., Kaal, A.A., Krennmayr, T., Pasma, T. (2010). A method for linguistic metaphor identification. From MIP to MIPVU. Amsterdam: John Benjamins. <br />
+[3] T. B. Brown et al., “Language Models are Few-Shot Learners.” arXiv, 2020. doi: 10.48550/ARXIV.2005.14165 <br />
+[4] Graham, J., & Haidt, J. (2012). The moral foundations dictionary. Available at: http://moralfoundations.org <br />
