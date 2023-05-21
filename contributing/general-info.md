@@ -1,11 +1,11 @@
 First of all, thank you for taking the time to read this and your interest in contributing to the charisma ai of the [Data Science Lab FH SWF](https://www.fh-swf.de/en/ueber_uns/standorte_4/meschede_4/fb_iw/dozentinnen/professorinnen_1/kopinski/index.php)
 The following is a set of guidelines for contributing to the training of this algorithm. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
-##### Table of contents
-... [I don't want to read this whole thing I just have a question](#I don't want to read this whole thing I just have a question)
-... [You want to contribute data that is coded for charisma?](#You want to contribute data that is coded for charisma?)
-... [Licencing](#Licencing)
-... [References](#References)
+#### Table of contents
+* [I don't want to read this whole thing I just have a question](#I don't want to read this whole thing I just have a question)
+* [You want to contribute data that is coded for charisma?](#You want to contribute data that is coded for charisma?)
+* [Licencing](#Licencing)
+* [References](#References)
 
 ### I don't want to read this whole thing I just have a question
 For general questions, please contact kruegl.stefanie@fh-swf.de
