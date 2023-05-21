@@ -1,5 +1,5 @@
 # CharismaBERT
-This repository holds the code for the conference talk on charisma signaling by Krügl et al. presented at the EAWOP 2023 in Katowice, Poland <br />
+This repository holds the code for the conference talk on charisma signaling in crises situations by Krügl et al. presented at the EAWOP 2023 in Katowice, Poland <br />
 The provided notebooks finetune multiple BERT models that predicts charismatic leadership tractics in text.<br />
 
 ## Abstract
