@@ -16,7 +16,7 @@ For general questions, please contact kruegl.stefanie@fh-swf.de
 Data is the new oil! To improve the Charisma AI, we need as many texts as possible that have been encoded according to Antonakis et al., (2011).
 1. If you wish to make your encoded data available to anyone who wants to use it, you can upload it to the "publish data" subfolder. Your data will then be licensed under CC BY 3.0.
 2. If you want to provide us with your data solely for training purposes for Charisma AI but do not want them to be publicly accessible, you can upload them to the following [File Drop folder](https://fh-swf.sciebo.de/s/qoo7sKXC621KsWu). We will not share the documents and will use them exclusively for training Charisma AI.
-3. Are you familiar with text corpora related to specific Charisma tactics? Then either copy the corpus into the "corpora/new" folder or paste the corpus link into the Corpus Collection file located in the "corpora" folder.
+3. Are you familiar with text corpora related to specific Charisma tactics? Then either copy the corpus into the "corpora/new" folder or paste the corpus link into the "contributing/publish-data/corpus-collection" file.
 
 You don't know how to code for charisma? Here is are some introductory videos: [Coding Charisma](https://www.youtube.com/playlist?list=PLZG8DPSz1ZIx3sWb77fs4PzoN3K2G91WX)
 
