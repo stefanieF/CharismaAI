@@ -30,6 +30,6 @@ In this repository, we utilize two different licenses:
 
 ---
 ### References
-* Antonakis, J., Bastardoz, N., Jacquart, P., & Shamir, B. (2016). Charisma: An ill-defined and ill-measured gift. Annual Review of Organizational Psychology and Organizational Behavior, 3, 293-319.
-* Antonakis, J., Fenley, M., & Liechti, S. (2011). Can charisma be taught? Tests of two interventions. Academy of Management Learning & Education, 10(3), 374-396.
+* Antonakis, J., Bastardoz, N., Jacquart, P., & Shamir, B. (2016). Charisma: An ill-defined and ill-measured gift. Annual Review of Organizational Psychology and Organizational Behavior, 3, 293-319. https://doi.org/10.1146/annurev-orgpsych-041015-062305
+* Antonakis, J., Fenley, M., & Liechti, S. (2011). Can charisma be taught? Tests of two interventions. Academy of Management Learning & Education, 10(3), 374-396. https://doi.org/10.5465/amle.2010.0012
 * Ernst, B. A., Banks, G. C., Loignon, A. C., Frear, K. A., Williams, C. E., Arciniega, L. M., Gupta, R. K., Kodydek, G., & Subramanian, D. (2021). Virtual charismatic leadership and signaling theory: A prospective meta-analysis in five countries. The Leadership Quarterly, 101541. https://doi.org/10.1016/j.leaqua.2021.101541
